@@ -47,7 +47,7 @@ Next, I'll detail in a few points the steps needed to get this project and set i
 You can download it directly from my GitHub repository or you can clone it to a folder of your choice with the following command:
 
 ```bash
-git clone https://github.com/codex-ventures/traffic_monitoring_api
+git clone https://github.com/codex-ventures/traffic-monitoring-api
 ```
 
 
