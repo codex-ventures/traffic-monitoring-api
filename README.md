@@ -47,7 +47,7 @@ Next, I'll detail in a few points the steps needed to get this project and set i
 You can download it directly from my GitHub repository or you can clone it to a folder of your choice with the following command:
 
 ```bash
-git clone https://github.com/MPCaloba/traffic_monitoring_api
+git clone https://github.com/codex-ventures/traffic_monitoring_api
 ```
 
 
@@ -207,14 +207,11 @@ There are a couple of features that need some improvement. I will write here the
 
 ## More Information
 
-I wrote a blog post about this project that describres the code. If you'd like, you can read it [here](https://medium.com/@marco_caloba/traffic-monitoring-rest-api-c736b92f0a43).
+I wrote a blog post about this project that describres the code. If you'd like, you can read it [here](https://medium.com/@codex-ventures/traffic-monitoring-rest-api-c736b92f0a43).
 
 Also, in case something is not working properly or you have any questions relating this project, you can get to me through the personal links below or my personal e-mail: marco_caloba@hotmail.com.
 
 
 ## Personal Links
-- [Personal website](https://mcaloba-04272.stackbit.app/)
-- [GitHub](https://github.com/MPCaloba)
-- [LinkdIn](https://www.linkedin.com/in/marcocaloba/)
-- [Medium](https://medium.com/@marco_caloba)
-- [Linktree](https://linktr.ee/mcaloba)
+- [GitHub](https://github.com/codex-ventures)
+- [Medium](https://medium.com/@codex-ventures)
